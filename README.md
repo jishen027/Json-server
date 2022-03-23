@@ -1,2 +1,2 @@
 # Json-server
-an example for showing how json server works
+an example to showing how json server works
